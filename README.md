@@ -1,12 +1,9 @@
-<body>
- <div style="display: inline_block"><br>
-  <span> Mᴀʏᴋᴏɴ Lᴏᴘᴇs <span> 
+ <span>Mᴀʏᴋᴏɴ Lᴏᴘᴇs<span>
   <img alt="verified-icon" height="15" width="15" src="https://cdn-icons-png.flaticon.com/512/3556/3556904.png"/>
-  
- </div>
-</body>
+  <br>
+  <br>
 
- </div>
+ 
   <div> 
    <a href="https://github.com/maykonlopes">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maykonlopes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
